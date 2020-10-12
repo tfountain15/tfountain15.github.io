@@ -1,0 +1,73 @@
+/*halloween store style*/
+.header{
+
+background: linear-gradient(to right top,white,orange, #293f50);
+float: left;
+width: 100%;
+height: 104px;
+
+
+}
+.navBar{
+   background: black;
+
+}
+.navBar ul{
+   list-style-type: none;
+padding: 16px 10px 10px 10px;
+
+}
+
+.navBar ul li{
+   color: white;
+   margin-right:160px;
+   display : inline;
+
+}
+.body{
+position: absolute;
+margin-left: 160px;
+}
+
+.body .itemstable{
+
+margin-left:155px;
+width: 100%;
+}
+
+
+.sideBar{
+float:left;
+height:100%;
+padding-left: 20px;
+}
+
+.footer{
+
+position: absolute;
+margin-top: 453px;
+background: linear-gradient(to right top,black,orange, white);
+width: 100%;
+text-align: center;
+   height:30px;
+}
+
+.sideBarElem{
+
+background: orange;
+border-color: black;
+border-style: solid;
+margin-top: 16px;
+height: 32px;
+width: 100%;
+padding-left: 20px;
+}
+
+.bodyHeader{
+
+padding: 1px 0px 0px 327px;
+}
+
+.tdbg {
+background:wheat;
+}
